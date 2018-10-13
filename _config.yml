@@ -9,3 +9,6 @@ author:
   email: "jose.sanchez.loza@gmail.com"
   github: "jsanch2s"
   stackoverflow: "https://stackoverflow.com/users/4788274/jos%c3%a9-s%c3%a1nchez?tab=profile"
+
+plugins:
+  - jekyll-sitemap
