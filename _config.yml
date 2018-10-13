@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:"jose.sanchez.loza@gmail.com"
+      url: mailto:jose.sanchez.loza@gmail.com
     - label: "Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ubB7qwgAAAAJ&hl=en"
