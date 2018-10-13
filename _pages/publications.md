@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
+permalink: /publications
 title: "Publications"
-excerpt: "Selected publications"
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 
 ToDo...
