@@ -5,6 +5,10 @@ author:
   name: "Jose Sanchez"
   bio: "PhD student in Robotic Manipulation of Deformable Objects"
   location: "Clermont-Ferrand, France"
+  links
+    - label "GitHub"
+      icon "fab fa-fw fa-github"
+      # url: "jsanch2s"
   googlescholar: "https://scholar.google.com/citations?user=ubB7qwgAAAAJ&hl=en"
   email: "jose.sanchez.loza@gmail.com"
   github: "jsanch2s"
