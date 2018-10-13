@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jose Sanchez"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in Robotic Manipulation of Deformable Objects"."
+  bio              : "PhD student in Robotic Manipulation of Deformable Objects."
   location         : "Clermont-Ferrand, France"
   email            :
   links:
