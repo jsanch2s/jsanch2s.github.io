@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About me"
-    url: https:/https://jsanch2s.github.io/about_me/
+    url: /about_me/
   - title: "CV"
-    url: https:/https://jsanch2s.github.io/cv/
+    url: /cv/
   - title: "Publications"
-    url: https:/https://jsanch2s.github.io/publications/
+    url: /publications/
   - title: "Hands-on experience"
-    url: https:/https://jsanch2s.github.io/hw_experience/
+    url: /hw_experience/
