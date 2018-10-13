@@ -111,7 +111,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:"jose.sanchez.loza@gmail.com"
     - label: "Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ubB7qwgAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
