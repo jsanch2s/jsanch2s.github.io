@@ -109,20 +109,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ubB7qwgAAAAJ&hl=en"
   github           : "https://github.com/jsanch2s"
   stackoverflow    : "https://stackoverflow.com/users/4788274/jos%c3%a9-s%c3%a1nchez?tab=profile"
-  
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jose.sanchez.loza@gmail.com
-    - label: "Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=ubB7qwgAAAAJ&hl=en"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jsanch2s"
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow "
-      url: "https://stackoverflow.com/users/4788274/jos%c3%a9-s%c3%a1nchez?tab=profile"
 
 # Site Footer
 footer:
