@@ -10,8 +10,8 @@ A full version of my [CV]({{ site.url }}/files/cv.pdf) in PDF format is also ava
 
 Research interests
 ------
-Robot manipulation, in particular grasping and contact interactions.
-Robot learning, e.g. reinforcement learning and learning from demonstration.
+* Robot manipulation, in particular grasping and contact interactions.
+* Robot learning, e.g. reinforcement learning and learning from demonstration.
 
 Education
 ------
@@ -19,7 +19,7 @@ Education
 )
   - My topic focuses on the manipulation of deformable objects using the Shadow hand robot equipped with BioTac sensors and the KUKA LWR+4 arm and a force-torque sensor.
 * MSc in Autonomous Systems at Bonn-Rhein-Sieg University, Germany (Oct. 2012 - Mar. 2015)
-  - The [program](https://www.h-brs.de/en/inf/autonomous-systems-msc) is offered by the Computer Science faculty with a focus on robotics. Master's thesis title: `Robust and Safe Manipulation by Sensor Fusion of Robotic Manipulators and End-Effectors`.
+  - The [program](https://www.h-brs.de/en/inf/autonomous-systems-msc) is offered by the Computer Science faculty with a focus on robotics. Master's thesis title: _"Robust and Safe Manipulation by Sensor Fusion of Robotic Manipulators and End-Effectors"_.
   
 Work experience
 ------
