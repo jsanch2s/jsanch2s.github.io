@@ -105,7 +105,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student in Robotic Manipulation of Deformable Objects."
   location         : "Clermont-Ferrand, France"
-  email            :
+  email            : "jose.sanchez.loza@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ubB7qwgAAAAJ&hl=en"
+  github           : "https://github.com/jsanch2s"
+  stackoverflow    : "https://stackoverflow.com/users/4788274/jos%c3%a9-s%c3%a1nchez?tab=profile"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
