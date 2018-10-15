@@ -30,4 +30,4 @@ Work experience
   - Writing and grading assignments on the following subjects covering topics such as robot kinematics, linear algebra, signal processing and optimization.
 
 
-<a name="myfootnote1">1</a>: Expected graduation date.
+<sub><a name="myfootnote1">1</a>: Expected graduation date.</sub>
