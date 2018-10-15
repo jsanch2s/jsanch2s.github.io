@@ -1,5 +1,5 @@
 ---
-title: 'Force-Torque Sensor Disturbance Observer using Deep Learning'
+title: 'Safely grasping with complex dexterous hands by tactile feedback'
 authors: 'Jose Sanchez,Sven Schneider, Paul Plöger'
 venue: ' Robot Soccer World Cup'
 date: 2015-05-12
