@@ -14,7 +14,7 @@ My articles can also be found on [my Google Scholar profile](https://scholar.goo
 To appear in _IEEE/RSJ International Conference on Intelligent Robots and Systems_ (IROS), 2018.
 
 Mohy el Dine<sup>[1](#myfootnote1)</sup>, Kamal, **Jose Sanchez**<sup>[1](#myfootnote1)</sup>, Juan Antonio Corrales, Youcef Mezouar, Jean-Christophe Fauroux.
-Force-Torque Sensor Disturbance Observer using Deep Learning."
+"Force-Torque Sensor Disturbance Observer using Deep Learning."
 Accepted in _International Symposium on Experimental Robotics_ (ISER), 2018.
 
 **Sanchez, Jose**, Juan Antonio Corrales, Belhassen-Chedli Bouzgarrou, and Youcef Mezouar. 
