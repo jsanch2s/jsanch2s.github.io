@@ -5,7 +5,7 @@ venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IRO
 date: 2018-10-02
 category: 'accepted'
 pdf: '2018_shape_sensing.pdf'
-teaser: 'shape_tracking.pdf'
+teaser: 'shape_tracking.png'
 permalink: /publications/2018_shape_sensing
 collection: publications
 ---
