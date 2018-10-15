@@ -5,7 +5,7 @@ venue: 'The International Journal of Robotics Research (IJRR)'
 date: 2018-06-13
 category: 'published'
 pdf: '2018_survey.pdf'
-teaser: 'survey_classification.pdf'
+teaser: 'survey_classification.png'
 permalink: /publications/2018_survey
 collection: publications
 ---
