@@ -13,7 +13,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
+$serif                      : Georgia, Tim, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -140,9 +140,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 200px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 0px !default;
+$right-sidebar-width: 0px !default;
+$right-sidebar-width-wide: 0px !default;
 
 $susy: (
   columns: 12,
