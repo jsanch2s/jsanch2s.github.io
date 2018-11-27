@@ -3,7 +3,7 @@ title: 'Online Shape Tracking based on Tactile Sensing and Deformation Modeling 
 authors: 'Jose Sanchez, Carlos M. Mateo, Juan Antonio Corrales, Belhassen-Chedli Bouzgarrou, Youcef Mezouar'
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 date: 2018-10-02
-category: 'accepted'
+category: 'published'
 pdf: '2018_shape_sensing.pdf'
 teaser: 'shape_tracking.png'
 permalink: /publications/2018_shape_sensing
