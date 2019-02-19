@@ -10,8 +10,9 @@ A full version of my [CV]({{ site.url }}/files/cv.pdf) in PDF format is also ava
 
 Research interests
 ------
-* Robot manipulation, in particular grasping and contact interactions.
+* Robot manipulation, in particular with contact interactions.
 * Robot learning, e.g. reinforcement learning and learning from demonstration.
+* Whole-body control and legged locomotion.
 
 Education
 ------

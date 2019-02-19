@@ -1,6 +1,6 @@
 ---
 title: 'Context-Based Adaptation of In-Hand Slip Detection for Service Robots'
-authors: 'Sanchez, Jose, Sven Schneider, Nico Hochgeschwender, Gerhard K. Kraetzschmar, Paul G. Plöger'
+authors: 'Jose Sanchez, Sven Schneider, Nico Hochgeschwender, Gerhard K. Kraetzschmar, Paul G. Plöger'
 venue: 'IFAC-PapersOnLine'
 date: 2016-08-09
 category: 'published'
