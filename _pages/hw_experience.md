@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /hw_experience/
 title: "Hands-on experience"
+permalink: /hw_experience/
 author_profile: true
 ---
 
