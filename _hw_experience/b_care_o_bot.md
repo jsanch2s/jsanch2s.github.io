@@ -1,7 +1,7 @@
 ---
 title: 'Care-O-bot 3'
 category: 'published'
-teaser: 'care_o_bot.pdf'
+teaser: 'care_o_bot.png'
 permalink: /hw_experience/care_o_bot
 collection: hw_experience
 ---

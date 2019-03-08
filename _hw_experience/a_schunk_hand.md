@@ -1,7 +1,7 @@
 ---
 title: 'Schunk hand and Weiss tactile sensors'
 category: 'published'
-teaser: 'schunk_hand.pdf'
+teaser: 'schunk_hand.png'
 permalink: /hw_experience/schunk_hand
 collection: hw_experience
 ---

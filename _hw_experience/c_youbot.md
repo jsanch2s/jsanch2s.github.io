@@ -1,7 +1,7 @@
 ---
 title: 'youBot'
 category: 'published'
-teaser: 'youbot.pdf'
+teaser: 'youbot.png'
 permalink: /hw_experience/youBot
 collection: hw_experience
 ---
