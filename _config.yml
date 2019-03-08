@@ -181,7 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-
+  hw_experience:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -194,7 +196,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _hw_experience
+  - scope:
+      path: ""
+      type: hw_experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
