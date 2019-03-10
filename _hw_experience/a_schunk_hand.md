@@ -1,7 +1,6 @@
 ---
 title: 'Schunk hand and Weiss tactile sensors'
 teaser: 'schunk_hand.png'
-excerpt: 'I used the three-fingered SDH-2 Schunk hand...'
 collection: hw_experience
 ---
 
