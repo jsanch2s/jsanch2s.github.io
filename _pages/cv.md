@@ -17,7 +17,7 @@ Research interests
 Education
 ------
 * PhD in Robotics at the Université Clermont Auvergne, France (Feb. 2016 - May. 2019)
-  - My topic focuses on the manipulation of deformable objects using the Shadow hand robot equipped with BioTac sensors and the KUKA LWR+4 arm and a force-torque sensor.
+  - My topic focused on the manipulation of deformable objects using the Shadow hand robot equipped with BioTac sensors and the KUKA LWR+4 arm and a force-torque sensor.
 * MSc in Autonomous Systems at Bonn-Rhein-Sieg University, Germany (Oct. 2012 - Mar. 2015)
   - The [program](https://www.h-brs.de/en/inf/autonomous-systems-msc) is offered by the Computer Science faculty with a focus on robotics. Master's thesis title: _"Robust and Safe Manipulation by Sensor Fusion of Robotic Manipulators and End-Effectors"_.
   
